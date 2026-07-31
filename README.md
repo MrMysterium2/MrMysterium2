@@ -1,7 +1,12 @@
+
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mr.Mysterium&fontSize=60&fontColor=ffffff&animation=fadeIn&textAlignY=35&desc=FiSi%20%7C%20HomeLab%20and%20Security&descAlignY=58&descSize=20)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=FiSi+%7C+HomeLab+%26+Anime+Enthusiast;Projekt:+Building+QuantWatch+%F0%9F%93%88;Learning+towards+IT+Security)](https://git.io/typing-svg)
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMysterium2&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMysterium2&layout=compact&theme=dark&hide_border=true)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,postgres,py,git,githubactions,grafana,prometheus,bash&theme=dark)](https://skillicons.dev)
 
 </div>
 
