@@ -1,3 +1,10 @@
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMysterium2&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMysterium2&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
 ### Hi, I'm Mr.Mysterium 👋
 
 Trained FiSi (IT systems integration specialist), currently focused on networking, Docker, and routing infrastructure — with an eye on moving further into security.
