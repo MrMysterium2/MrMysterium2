@@ -26,6 +26,8 @@
 
 </div>
 
+</br>
+</br>
 
 ### Hi, I'm Mr.Mysterium 👋
 
@@ -33,7 +35,25 @@ Trained FiSi (IT systems integration specialist), currently focused on networkin
 
 I run a self-hosted HomeLab as a hands-on learning environment: Linux, networking, containerized services, monitoring, and security tooling, all documented and iterated on as I go.
 
+</br>
+</br>
+
+
+- 🐳 Docker, networking, and a healthy obsession with self-hosting
+- 💥 Breaking my own homelab so production never has to
+- 🌙 Building infrastructure by day, breaking it on purpose at night
+- 🍓 Turning a HP ProDesk and a Raspberry Pi into more problems than solutions
+
+*(Turns out most of those problems are also solutions if you wait long enough.)*
+
+</br>
+</br>
+
 🔭 **Currently building:** [QuantWatch](https://github.com/MrMysterium2/quantwatch) — a rule-based stock scoring/watchlist tool (FastAPI, Docker, FinBERT sentiment analysis). Not a recommendation tool, just a project to explore APIs, scoring logic, and deployment practices.
+
+
+</br>
+</br>
 
 🛠️ **Stack I work with:**
 
@@ -47,6 +67,8 @@ I run a self-hosted HomeLab as a hands-on learning environment: Linux, networkin
 - **CI/DevSecOps:** Git · GitHub Actions · CodeQL · Dependabot
 - **Shell/CLI:** Starship prompt · btop
 
+</br>
+</br>
 
 📈 **Currently learning toward:** IT security fundamentals — WAF/AppSec concepts, dependency scanning, secure secrets handling, hardening self-hosted services.
 
