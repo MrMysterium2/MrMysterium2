@@ -7,6 +7,23 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,postgres,py,git,githubactions,grafana,prometheus,bash&theme=dark)](https://skillicons.dev)
 
+![MediaWiki](https://img.shields.io/badge/MediaWiki-black?style=for-the-badge&logo=mediawiki&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-black?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242938?style=for-the-badge&logo=tailscale&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-black?style=for-the-badge&logo=vaultwarden&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-black?style=for-the-badge&logo=uncomplicatedfirewall&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+
 </div>
 
 
