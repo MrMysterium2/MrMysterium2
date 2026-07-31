@@ -11,6 +11,7 @@
 
 </div>
 
+
 ### Hi, I'm Mr.Mysterium 👋
 
 Trained FiSi (IT systems integration specialist), currently focused on networking, Docker, and routing infrastructure — with an eye on moving further into security.
@@ -33,3 +34,9 @@ I run a self-hosted HomeLab as a hands-on learning environment: Linux, networkin
 
 
 📈 **Currently learning toward:** IT security fundamentals — WAF/AppSec concepts, dependency scanning, secure secrets handling, hardening self-hosted services.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrMysterium2/MrMysterium2/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrMysterium2/MrMysterium2/output/github-contribution-grid-snake.svg">
+</picture>
