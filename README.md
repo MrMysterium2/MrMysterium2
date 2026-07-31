@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Mr.Mysterium 👋
 
-<!--
-**MrMysterium2/MrMysterium2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trained FiSi (IT systems integration specialist), currently focused on networking, Docker, and routing infrastructure — with an eye on moving further into security.
 
-Here are some ideas to get you started:
+I run a self-hosted HomeLab as a hands-on learning environment: Linux, networking, containerized services, monitoring, and security tooling, all documented and iterated on as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently building:** [QuantWatch](https://github.com/MrMysterium2/quantwatch) — a rule-based stock scoring/watchlist tool (FastAPI, Docker, FinBERT sentiment analysis). Not a recommendation tool, just a project to explore APIs, scoring logic, and deployment practices.
+
+🛠️ **Stack I work with:**
+
+- **Infrastructure:** Docker · Docker Compose · Linux (Ubuntu, Debian) · systemd
+- **Networking & Security:** Nginx (reverse proxy) · UFW · CrowdSec (WAF/AppSec) · Tailscale (WireGuard-based mesh VPN) · Pi-hole · mkcert (local CA) · SSH
+- **Monitoring & Logging:** Prometheus · Grafana · Blackbox Exporter · node_exporter · Loki/Promtail
+- **Backup:** restic · Samba (SMB)
+- **Self-hosted services:** Nextcloud · MediaWiki · Vaultwarden · Firefly III · Open WebUI · Ollama
+- **Backend development:** FastAPI · SQLAlchemy · Alembic · PostgreSQL · MariaDB · Pydantic
+- **Data & ML:** yfinance · Hugging Face Transformers · PyTorch · pandas · NumPy
+- **CI/DevSecOps:** Git · GitHub Actions · CodeQL · Dependabot
+- **Shell/CLI:** Starship prompt · btop
+
+
+📈 **Currently learning toward:** IT security fundamentals — WAF/AppSec concepts, dependency scanning, secure secrets handling, hardening self-hosted services.
