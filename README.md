@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,postgres,py,git,githubactions,grafana,prometheus,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,postgres,py,github,githubactions,grafana,prometheus,bash&theme=dark)](https://skillicons.dev)
 
 ![MediaWiki](https://img.shields.io/badge/MediaWiki-black?style=for-the-badge&logo=mediawiki&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
